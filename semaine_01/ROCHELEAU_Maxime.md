@@ -1,8 +1,16 @@
 # Maxime Rocheleau
 
-![photo_maxime_rocheleau](https://github.com/MaximeRocheleau/H24_V11_inspirations_ROCHELEAU/assets/143358040/821c163f-d511-4e64-88e4-300983c0ddcd)
+![photo](photo_maxime_rocheleau.jpg)
 
 
 ## **Intérêts dans le multimédia**
-J'apprécie les oeuvres intéractives dans le style comme le fait ILLUMI et les musées interactifs. J'aime également les jeux vidéoset la réalitée virtuelle.
-J'ai une préférence pour les oeuvres qui sont grosses et impressionantes à voir
+J'apprécie les oeuvres immersives dans le style comme le fait ILLUMI et les musées interactifs. J'aime également les jeux vidéoset la réalitée virtuelle.
+J'ai une préférence pour les oeuvres qui sont grosses et impressionantes à voir ainsi que ceux qui sont colorées et illuminées.
+
+Voici un exemple:
+<https://www.youtube.com/watch?v=Lo9G2_nmnjE>
+
+**ou**
+En cliquant sur l'image:
+
+[![Exemple de capture d'écran](capture_SF_VahMire_defaroucher_consulte21janv2024.png)](https://www.youtube.com/watch?v=Lo9G2_nmnjE)
