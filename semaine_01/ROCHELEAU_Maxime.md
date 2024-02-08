@@ -14,3 +14,6 @@ Voici un exemple:
 En cliquant sur l'image:
 
 [![Exemple de capture d'écran](illumi.jpg)](https://www.youtube.com/watch?v=Lo9G2_nmnjE)
+
+## Ce qui me plait dans l'introduction à la muséologie en TIM
+Découvrir les différentes oeuvres uniques et intéressantes qui font partie du cours. J'aime en apprendre d'avantage sur ces oeuvres.
