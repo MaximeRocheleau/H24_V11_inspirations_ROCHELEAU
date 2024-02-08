@@ -4,7 +4,7 @@
 
 
 ## **Intérêts dans le multimédia**
-J'apprécie les oeuvres immersives dans le style comme le fait ILLUMI et les musées interactifs. J'aime également les jeux vidéoset la réalitée virtuelle.
+J'apprécie les oeuvres immersives dans le style comme le fait ILLUMI et les musées interactifs. J'aime également les jeux vidéos et la réalitée virtuelle.
 J'ai une préférence pour les oeuvres qui sont grosses et impressionantes à voir ainsi que ceux qui sont colorées et illuminées.
 
 Voici un exemple:
