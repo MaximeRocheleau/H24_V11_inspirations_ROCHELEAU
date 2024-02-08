@@ -13,4 +13,4 @@ Voici un exemple:
 **ou**
 En cliquant sur l'image:
 
-[![Exemple de capture d'écran](illumi.png)](https://www.youtube.com/watch?v=Lo9G2_nmnjE)
+[![Exemple de capture d'écran](illumi.jpg)](https://www.youtube.com/watch?v=Lo9G2_nmnjE)
