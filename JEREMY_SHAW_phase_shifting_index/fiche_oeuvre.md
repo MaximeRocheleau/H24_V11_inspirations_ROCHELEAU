@@ -9,3 +9,5 @@ Jeremy Shaw, né en 1977 à Noth Vancouver, est connu pour son utilisation de di
 
 ![photo](photo_SF_K_Nnebe_Afflux_20231201.jpg)
 
+## **Type d'exposition**
+Il sagit d'une exposition intérieur, puisque celle-ci se fait uniquement dans un espace renfermé a l'intérieur d'un bâtiment pour bien voir la projection sur les écrans et l'éclairage. Cette oeuvre est également ittinérante. C'est à dire qu'elle voyage a plusieurs endroits dans le monde, comme à Paris, en Allemagne, au Canada, etc...
