@@ -33,6 +33,8 @@ Il sagit d'une exposition intérieur, puisque celle-ci se fait uniquement dans u
 Phase Shifting Index représente sept groupes autonomes engagés dans des systèmes de croyance incarnés et basés sur le mouvement qui aspirent à induire des réalités parallèles. Utilisant divers médias démodés du XXe siècle, des années 1960 aux années 1990, Shaw présente ce qui semble être des séquences documentaires comme un futur lointain, créant une dissonance cognitive dans la relation du spectateur avec un sentiment de lieu et de temps. La tenue vestimentaire, le style et la chorégraphie des sujets suggèrent des images historiques trouvées des années 1960 aux années 1990. À travers des variations de danse moderne, de popping et de verrouillage, de sauts, de skanking hardcore et d'exercices de confiance, ils explorent les potentiels de modification physique de la réalité.
 ###### Source : [thepolygon.ca](https://thepolygon.ca/exhibition/jeremy-shaw-phase-shifting-index/)
 
+![photo](media/photo_exposition_phase_shifting_index.jpeg)
+
 ## **Type d'installation**
 Cette exposition est une installation immersive. C'est à dire qu'elle plonge le publique dans un monde immersif, dans le monde de l'oeuvre en question. Le publique séjourne dans l'oeuvre et vit l'expérience.
 
