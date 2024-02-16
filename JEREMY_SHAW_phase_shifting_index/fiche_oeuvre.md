@@ -10,6 +10,8 @@ Cette exposition conçu par Jeremy Shaw a été présenté par le musée d'art c
 ## **Lieu de mise en exposition**
 Cette exposition a eu lieu à l'intérieur de la Fonderie Darling au 745 Rue Ottawa à Montréal, Québec.
 
+![photo](media/photo_promotionelle_de_exposition.jpeg)
+
 ## **Titre de l'oeuvre**
 L'oeuvre porte le nom de "Phase Shifting Index".
 
