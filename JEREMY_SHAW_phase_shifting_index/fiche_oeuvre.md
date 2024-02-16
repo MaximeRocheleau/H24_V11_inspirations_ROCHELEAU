@@ -44,7 +44,7 @@ Cette exposition est une installation immersive. C'est à dire qu'elle plonge le
 ## **Mise en espace**
 Sept écrans asser gros accrochées au plafond située sur chaque côté de la pièce accompagnée de banc pour s’assir. Les écrans sont descendu jusqu'au niveau des yeux des spectateurs. Il y a pas mal d’espace dans la pièce pour bouger puisque la majorité du matériel est accroché au plafond. Salle blanche plutôt vide appart pour les écrans et les bancs. Les écrans sont égalements accompagnées d'hauts-parleurs accrochées au plafond et positionner de manière à ce que le son est projeté sur le banc en face de l'écran.
 
-![photo](media/photo_ensemble_de_phase_shifting_index.jpg)
+![photo](media/photo_croquis_piece.png)
 
 ## **Composantes et techniques**
 Installation vidéographique à sept canaux, couleurs en noir et blanc, avec son multi-canaux et lumières. Durées de 35 minutes et 17 seconds. Il y a également une salle de son a l'intérieur pour contrôler d'où le son vient (haut parleur des écrans ou hauts-parleurs a fréquence basse).
