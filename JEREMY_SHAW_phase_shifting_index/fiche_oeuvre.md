@@ -4,6 +4,7 @@
 Cette exposition conçu par Jeremy Shaw a été présenté par le musée d'art contemporain de Montréal. Elle porte le nom de "Phase Shifting Index". Elle a été créée en 2020.
 
 ![photo](media/photo_promotionelle_de_exposition.jpeg)
+###### Image promotionelle de *Phase Shifting Index*
 
 ## **Lieu de mise en exposition**
 Cette exposition a eu lieu à l'intérieur de la Fonderie Darling au 745 Rue Ottawa à Montréal, Québec.
