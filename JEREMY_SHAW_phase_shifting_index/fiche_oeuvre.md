@@ -36,6 +36,9 @@ Phase Shifting Index représente sept groupes autonomes engagés dans des systè
 ![photo](media/photo_cartel_information.PNG)
 ###### Photo du cartel d'information sur l'oeuvre
 
+![photo](media/photo_cartel_information.PNG)
+###### Photo qui montre l'ensemble de l'oeuvre
+
 ## **Type d'installation**
 Cette exposition est une installation immersive. C'est à dire qu'elle plonge le publique dans un monde immersif, dans le monde de l'oeuvre en question. Le publique séjourne dans l'oeuvre et vit l'expérience.
 
