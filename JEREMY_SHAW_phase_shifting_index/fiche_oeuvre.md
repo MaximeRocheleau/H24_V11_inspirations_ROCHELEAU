@@ -1,7 +1,7 @@
 # Phase Shifting Index
 
 ## **Nom de l'exposition**
-Cette exposition conçu par Jeremy Shaw a été présenté par le musée d'art contemporain de Montréal. Elle porte le nom de "Phase Shifting Index". Elle a été créée en 2020.
+Cette exposition conçu par Jeremy Shaw a été présenté par le musée d'art contemporain de Montréal. Elle porte le nom de *Phase Shifting Index*. Elle a été créée en 2020.
 
 ![photo](media/photo_promotionelle_de_exposition.jpeg)
 ###### Image promotionelle de *Phase Shifting Index*
