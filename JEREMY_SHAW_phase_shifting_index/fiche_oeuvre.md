@@ -36,7 +36,7 @@ Phase Shifting Index représente sept groupes autonomes engagés dans des systè
 ![photo](media/photo_cartel_information.PNG)
 ###### Photo du cartel d'information sur l'oeuvre
 
-![photo](media/photo_cartel_information.PNG)
+![photo](media/photo_ensemble_de_phase_shifting_index.jpg)
 ###### Photo qui montre l'ensemble de l'oeuvre
 
 ## **Type d'installation**
