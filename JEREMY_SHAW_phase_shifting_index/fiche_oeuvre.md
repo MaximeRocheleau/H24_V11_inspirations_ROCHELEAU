@@ -16,7 +16,7 @@ Cette exposition a eu lieu à l'intérieur de la Fonderie Darling au 745 Rue Ott
 ## **Titre de l'oeuvre**
 L'oeuvre porte le nom de *Phase Shifting Index*.
 
-![photo](media/photo_exposition_phase_shifting_index.jpg)
+![photo](media/photo_exposition_phase_shifting_index.jpeg)
 ###### Photo de l'oeuvre 
 
 ## **Information sur l'artiste**
