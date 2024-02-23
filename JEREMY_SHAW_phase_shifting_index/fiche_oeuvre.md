@@ -55,6 +55,8 @@ Installation vidéographique à sept canaux, couleurs en noir et blanc, avec son
 ## **Éléments nécessaires à la mise en exposition**
 Banc pour s’assir, haut-parleurs accrochés sur crochet au plafond pour écouter le son, sept écrans également accrochée sur crochet au plafond pour montrer les sept pièces, lumières un peu partout sur crochet installer au plafond pour les jeux de lumières dans la salle, branchements électriques bien caché qui ne sont pas dans le chemin pour faire fonctionner le tout, tapis anti bruit au sol et au murs. Sept projecteurs pour diffuser les sept films séparément sur leurs écrans respectifs.
 
+![photo](media/photo_elements_necessaire.png)
+
 ## **Expérience vécue**
 Belle expérience unique, intéressante et immersive avec un bon personnel informé et avec des explications claires de l’œuvre pour savoir sont but. Le spectateur fait partit de l'oeuvre. L'exposition nous trompe en nous faisant croire que c'est seulement une diffusion de sept vidéos mais nous surprend vers la fin.
 
