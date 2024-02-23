@@ -66,6 +66,8 @@ Banc pour s’asseoir, haut-parleurs accrochés sur des crochets au plafond pour
 ## **Expérience vécue**
 Belle expérience unique, intéressante et immersive avec un bon personnel informé et avec des explications claires de l’œuvre pour savoir son but. Le spectateur fait partie de l'œuvre. L'exposition nous trompe en nous faisant croire que c'est seulement une diffusion de sept vidéos mais nous surprend vers la fin.
 
+![vidéo](media/vidéo_Phase_Shifting_Index.mp4)
+
 ## **Ce qui m'a plu et m'a donné des idées**
 J’ai aimé comment l’œuvre s’est terminée car c’était une fin inattendue qui m’a pris par surprise. Voir tous les films jouer en même temps puis après se transformer en films distordus pour ensuite revenir au calme avec un fond d’un univers multicolore m'a impressionné. J’ai aussi aimé le concept de l’œuvre en général, qui était d’expérimenter avec une drogue les effets hallucinogènes révélateurs et thérapeutiques qu’elle a sur des volontaires et de voir par la suite ce qu’ils font en les enregistrant. C’était intéressant à voir. Cela m’a donné des idées pour des œuvres inattendues de ce genre aussi.
 
