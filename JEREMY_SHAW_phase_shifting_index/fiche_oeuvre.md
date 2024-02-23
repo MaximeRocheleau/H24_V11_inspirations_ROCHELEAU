@@ -4,27 +4,27 @@
 Cette exposition conçu par Jeremy Shaw a été présenté par le musée d'art contemporain de Montréal. Elle porte le nom de *Phase Shifting Index*. Elle a été créée en 2020.
 
 ![photo](media/photo_promotionelle_de_exposition.jpeg)
-###### Image promotionelle de *Phase Shifting Index*
+###### Image promotionelle de *Phase Shifting Index*.
 
 
 ## **Lieu de mise en exposition**
 Cette exposition a eu lieu à l'intérieur de la Fonderie Darling au 745 Rue Ottawa à Montréal, Québec.
 
 ![photo](media/photo_entrée_de_la_fonderie_darling.jpg)
-###### Porte d'entrée de la Fonderie Darling
+###### Porte d'entrée de la Fonderie Darling.
 
 ## **Titre de l'oeuvre**
 L'oeuvre porte le nom de *Phase Shifting Index*.
 
 ![photo](media/photo_exposition_phase_shifting_index.jpeg)
-###### Photo de l'oeuvre 
+###### Photo de l'oeuvre.
 
 ## **Information sur l'artiste**
 Jeremy Shaw, né en 1977 à Noth Vancouver, est connu pour son utilisation de différentes techniques pour explorer les états seconds ainsi que les pratiques culturelles et scientifiques qui cherchent à tracer les expériences transcendantales. Il utilise souvent des stratégies tirées du cinéma-vérité, de l’art conceptuel, des vidéoclips et de la recherche scientifique afin de montrer un espace postdocumentaire où une variété de systèmes de croyances et de narrations se voient. Il a présenté des expositions individuelles au Centre Pompidou à Paris, au MoMA PS1 à New York, au Schinkel Pavillon à Berlin, et au MOCA à Toronto. Il a également participé à des expositions internationales telles que la 57e Biennale de Venise et Manifesta 11, à Zurich. Ses œuvres figurent dans plusieurs collections publiques à travers le monde, notamment celles du Museum of Modern Art de New York, du Centre Pompidou à Paris, de la Tate Modern à Londres, du Musée des beaux-arts du Canada à Ottawa, et de la Sammlung zeitgenössische Kunst des Bundesrepublik en Allemagne.
 ###### Source : [macm.com](https://macm.org/expositions/jeremy-shaw/)
 
 ![photo](media/photo_jeremy_shaw.jpg)
-###### Image de l'artiste Jeremy Shaw
+###### Image de l'artiste Jeremy Shaw.
 
 ## **Type d'exposition**
 Il sagit d'une exposition intérieur, puisque celle-ci se fait uniquement dans un espace renfermé a l'intérieur d'un bâtiment pour bien voir la projection sur les écrans et l'éclairage. Cette oeuvre est également ittinérante. C'est à dire qu'elle voyage a plusieurs endroits dans le monde, comme à Paris, en Allemagne, au Canada, etc...
@@ -34,7 +34,7 @@ Phase Shifting Index représente sept groupes autonomes engagés dans des systè
 ###### Source : [thepolygon.ca](https://thepolygon.ca/exhibition/jeremy-shaw-phase-shifting-index/)
 
 ![photo](media/photo_cartel_information.PNG)
-###### Photo du cartel d'information sur l'oeuvre
+###### Photo du cartel d'information sur l'oeuvre.
 
 ![photo](media/photo_ensemble_de_phase_shifting_index.jpg)
 
@@ -45,17 +45,22 @@ Cette exposition est une installation immersive. C'est à dire qu'elle plonge le
 Sept écrans asser gros accrochées au plafond située sur chaque côté de la pièce accompagnée de banc pour s’assir. Les écrans sont descendu jusqu'au niveau des yeux des spectateurs. Il y a pas mal d’espace dans la pièce pour bouger puisque la majorité du matériel est accroché au plafond. Salle blanche plutôt vide appart pour les écrans et les bancs. Les écrans sont égalements accompagnées d'hauts-parleurs accrochées au plafond et positionner de manière à ce que le son est projeté sur le banc en face de l'écran.
 
 ![photo](media/photo_croquis_piece.png)
-###### Photo du croquis de la pièce
+###### Photo du croquis de la pièce.
 
 ![photo](media/photo_vue_ensemble_de_la_piece.jpg)
 
 ## **Composantes et techniques**
 Installation vidéographique à sept canaux, couleurs en noir et blanc, avec son multi-canaux et lumières. Durées de 35 minutes et 17 seconds. Il y a également une salle de son a l'intérieur pour contrôler d'où le son vient (haut parleur des écrans ou hauts-parleurs a fréquence basse).
 
+![photo](media/photo_vue_ensemble_de_la_piece.jpg)
+
+![photo](media/photo_vue_ensemble_de_la_piece.jpg)
+
 ## **Éléments nécessaires à la mise en exposition**
 Banc pour s’assir, haut-parleurs accrochés sur crochet au plafond pour écouter le son, sept écrans également accrochée sur crochet au plafond pour montrer les sept pièces, lumières un peu partout sur crochet installer au plafond pour les jeux de lumières dans la salle, branchements électriques bien caché qui ne sont pas dans le chemin pour faire fonctionner le tout, tapis anti bruit au sol et au murs. Sept projecteurs pour diffuser les sept films séparément sur leurs écrans respectifs.
 
 ![photo](media/photo_elements_necessaire.png)
+###### Les éléments nécessaires à la mise en exposition.
 
 ## **Expérience vécue**
 Belle expérience unique, intéressante et immersive avec un bon personnel informé et avec des explications claires de l’œuvre pour savoir sont but. Le spectateur fait partit de l'oeuvre. L'exposition nous trompe en nous faisant croire que c'est seulement une diffusion de sept vidéos mais nous surprend vers la fin.
