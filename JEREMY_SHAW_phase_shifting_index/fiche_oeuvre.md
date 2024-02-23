@@ -52,9 +52,10 @@ Sept écrans asser gros accrochées au plafond située sur chaque côté de la p
 ## **Composantes et techniques**
 Installation vidéographique à sept canaux, couleurs en noir et blanc, avec son multi-canaux et lumières. Durées de 35 minutes et 17 seconds. Il y a également une salle de son a l'intérieur pour contrôler d'où le son vient (haut parleur des écrans ou hauts-parleurs a fréquence basse).
 
-![photo](media/photo_vue_ensemble_de_la_piece.jpg)
+![photo](media/photo_composantes_et_techniques_1.png)
+###### Photo de la porte de la salle de son.
 
-![photo](media/photo_vue_ensemble_de_la_piece.jpg)
+![photo](media/photo_composantes_et_techniques_2.png)
 
 ## **Éléments nécessaires à la mise en exposition**
 Banc pour s’assir, haut-parleurs accrochés sur crochet au plafond pour écouter le son, sept écrans également accrochée sur crochet au plafond pour montrer les sept pièces, lumières un peu partout sur crochet installer au plafond pour les jeux de lumières dans la salle, branchements électriques bien caché qui ne sont pas dans le chemin pour faire fonctionner le tout, tapis anti bruit au sol et au murs. Sept projecteurs pour diffuser les sept films séparément sur leurs écrans respectifs.
