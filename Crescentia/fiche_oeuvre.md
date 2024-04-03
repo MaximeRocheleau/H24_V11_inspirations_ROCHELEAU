@@ -76,33 +76,59 @@ Sonalux est une installation qui dépasse les limites du réel pour proposer un 
 ## **Type d'installation**
 Cette exposition est une installation immersive. C'est à dire qu'elle plonge le public dans un monde immersif, dans le monde de l'œuvre en question. Le public séjourne dans l'œuvre et vit l'expérience.
 
-## **Mise en espace**
-Quatre oeuvres multimédias dans le grand studio du collège et une dans le petit studio. Ceux dans le grand studio sont chacune dans un coin de la pièce, vis-à-vis l'une à l'autre. Celle dans le petit studio prend toute la pièce.
+## **Mise en espace de l'exposition**
+Quatre œuvres multimédias dans le grand studio du collège et une dans le petit studio. Ceux dans le grand studio sont dans une salle blanche plutôt remplis par le matériel de chaque œuvre et chacune est dans un coin de la pièce, vis-à-vis l'une à l'autre. Celle dans le petit studio est dans une salle noir moins remplis cette fois puisqu'elle est seul, mais elle prend toute la pièce comme espace. Chacune des œuvres utilises des écrans pour afficher leurs résultats. Certains matériels comme les projecteurs sont accrochés au plafond.
 
-![photo](media/photo_croquis_piece.png)
-###### Photo du croquis de la pièce.
+![photo](media/)
+###### Photo du croquis du grand et petit studio.
 
-![photo](media/photo_vue_ensemble_de_la_piece.jpg)
+## **Mise en espace de l'œuvre *Rhizomatique***
+On voit plein de vidéo flou superposer une par dessus l'autre sur le murs du fond du studio. Il y a également une installation qui est intéractive au millieu en avant des vidéos. Des hauts-parleurs sont accrochés au plafond.
+
+![photo](media/)
+###### Mise en espace de *Rhizomatique*.
+
+## **Mise en espace de l'œuvre *Effet-Papillon***
+On voit un arbre électronique intérctif au milieu de la pièce avec 8 écrans dessus. Chaque murs est projeté par des lumières et des projecteurs accrochées au plafonds. Des hauts-parleurs sont également accrochés au plafond.
+
+![photo](media/)
+###### Mise en espace de *Effet-Papillon*.
+
+## **Mise en espace de l'œuvre *Kigo***
+On voit un capteur kinect en dessous d'un grand écran ou l'œuvre intéractive sera affiché. Il y à aussi un terrain prédéterminé pour l'utilisateur là ou il devra se placer pour commencer le début de la partie. Des hauts-parleurs et projecteurs sont sur chaque côtés de l'écran
+
+![photo](media/)
+###### Mise en espace de *Kigo*.
+
+## **Mise en espace de l'œuvre *Sonalux***
+3 murs sont présents avec chacun une projection de l'œuvre qui est synchonisé sur chaque écrans. Un podium intéractif est au milieu des 3 murs pour contrôler leurs projection. Des hauts-parleurs et projecteurs sont accrochés au plafond.
+
+![photo](media/)
+###### Mise en espace de *Sonalux*.
+
+## **Mise en espace de l'œuvre *Canevas Cosmique***
+Un projecteur affiche sur le murs d'en face l'œuvre en question. Une table intéractive est présente en face du murs qui nous permet de modifier le résultat. Des hauts-parleurs sont accrochés au plafond de chaque côtés de l'écran.
+
+![photo](media/)
+###### Mise en espace de *Canevas Cosmique*.
 
 ## **Composantes et techniques**
-Installation vidéographique à sept canaux, couleurs en noir et blanc, avec son multi-canaux et lumières. Durées de 35 minutes et 17 seconds. Il y a également une salle de son à l'intérieur pour contrôler d'où le son vient (haut-parleurs des écrans ou haut-parleurs à fréquence basse).
+Installation vidéographique, avec son multi-canaux et lumières. Hauts-parleurs et projecteurs.
 
-![photo](media/photo_composantes_et_techniques_1.png)
-###### Photo de la porte de la salle de son.
-
-![photo](media/photo_composantes_et_techniques_2.png)
+![photo](media/)
+###### Photo de composantes.
 
 ## **Éléments nécessaires à la mise en exposition**
-Banc pour s’asseoir, haut-parleurs accrochés sur des crochets au plafond pour écouter le son, sept écrans également accrochés sur des crochets au plafond pour montrer les sept pièces, lumières un peu partout sur des crochets installés au plafond pour les jeux de lumières dans la salle, branchements électriques bien cachés qui ne sont pas dans le chemin pour faire fonctionner le tout, tapis anti bruit au sol et aux murs. Sept projecteurs pour diffuser les sept films séparément sur leurs écrans respectifs.
+Haut-parleurs accrochés sur des crochets au plafond ou sur les dispositifs nécessaires pour écouter le son, plusieurs projecteurs également accrochés sur des crochets au plafond pour montrer chacune des œuvres présentées par les différentes équipes, lumières respectives sur des crochets installés au plafond pour chacune des œuvres, branchements électriques qui sont visible mais qui ne sont pas dans le chemin pour faire fonctionner le tout, tapis de mousse au sol.
 
-![photo](media/photo_elements_necessaire.png)
+![photo](media/)
 ###### Les éléments nécessaires à la mise en exposition.
 
 ## **Expérience vécue**
-Belle expérience unique, intéressante et immersive avec un bon personnel informé et avec des explications claires de l’œuvre pour savoir son but. Le spectateur fait partie de l'œuvre. L'exposition nous trompe en nous faisant croire que c'est seulement une diffusion de sept vidéos mais nous surprend vers la fin.
+Belle expérience intéressante et immersive avec des explications claires de l’œuvre pour savoir son but. L'intéracteur joue un rôle important dans chacune des œuvres. Chaque expositions fonctionnent différement l'une de l'autre ce qui fait une belle variété de découverte a faire.
 
 ## **Ce qui m'a plu et m'a donné des idées**
-J’ai aimé comment l’œuvre s’est terminée car c’était une fin inattendue qui m’a pris par surprise. Voir tous les films jouer en même temps puis après se transformer en films distordus pour ensuite revenir au calme avec un fond d’un univers multicolore m'a impressionné. J’ai aussi aimé le concept de l’œuvre en général, qui était d’expérimenter avec une drogue les effets hallucinogènes révélateurs et thérapeutiques qu’elle a sur des volontaires et de voir par la suite ce qu’ils font en les enregistrant. C’était intéressant à voir. Cela m’a donné des idées pour des œuvres inattendues de ce genre aussi.
+J'ai aimé la variété des œuvres car cette fois-ci au lieu d'avoir une seul œuvre, il y en a cinq donc une belle variété. Chaque expositions est différentes donc chaque expérience vécu avec chacune des œuvres va étre différente et unique de la précédente dont j'ai apprécié cela. Ils ont tous un concept intéressant.
 
 ## **Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferai autrement**
-Je ferais peut-être la mise en espace différemment car la salle était plutôt vide et ennuyante, mais je comprends que c’était pour mettre le focus plus sur les vidéos que la salle en soit. Je ferais une salle avec un décor plus intéressant à voir, tout en conservant un lien avec l’œuvre de Jeremy Shaw.
+Je ferais peut-être certaines des composantes et techniques différemment car les branchements sont visibles pour la plupart des œuvres ce qui la rend unpeu moins professionel.
