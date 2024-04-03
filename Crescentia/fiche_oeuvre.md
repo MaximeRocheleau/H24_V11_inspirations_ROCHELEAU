@@ -3,7 +3,7 @@
 ## **Nom de l'exposition**
 Cette exposition conçue par les élèves de la dernière session dans la technique d'intégration multimédia a été présentée par le programme TIM au collège Montmorency. Elle se nomme *Crescentia*. Elle a été créée en 2024.
 
-![photo](media/Image_Promotionelle_Crescentia.PNG)
+![photo](media/Image_Promotionelle_Crescentia_TIM.PNG)
 ###### Image promotionelle de *Crescentia*.
 
 ## **Lieu de mise en exposition**
