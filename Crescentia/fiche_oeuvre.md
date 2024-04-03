@@ -9,7 +9,7 @@ Cette exposition conçue par les élèves de la dernière session dans la techni
 ## **Lieu de mise en exposition**
 Cette exposition a eu lieu à l'intérieur du collège Montmorency au 475 Boulevard de l'Avenir, Laval, Québec dans le petit et le grand studio.
 
-![photo](media/)
+![photo](media/Collège_Montmorency.jpg)
 ###### Porte d'entrée du collège Montmorency.
 
 ## **Titre de l'œuvre**
