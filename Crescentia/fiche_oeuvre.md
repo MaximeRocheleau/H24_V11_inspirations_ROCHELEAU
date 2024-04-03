@@ -80,7 +80,7 @@ Cette exposition est une installation immersive. C'est à dire qu'elle plonge le
 Quatre œuvres multimédias dans le grand studio du collège et une dans le petit studio. Ceux dans le grand studio sont dans une salle blanche plutôt remplis par le matériel de chaque œuvre et chacune est dans un coin de la pièce, vis-à-vis l'une à l'autre. Celle dans le petit studio est dans une salle noir moins remplis cette fois puisqu'elle est seul, mais elle prend toute la pièce comme espace. Chacune des œuvres utilises des écrans pour afficher leurs résultats. Certains matériels comme les projecteurs sont accrochés au plafond.
 
 ![photo](media/Croquis_Grand_Petit_Studio.PNG)
-###### Photo du croquis du grand et petit studio.
+###### Croquis du grand et petit studio.
 
 ## **Mise en espace de l'œuvre *Rhizomatique***
 On voit plein de vidéo flou superposer une par dessus l'autre sur le murs du fond du studio. Il y a également une installation qui est intéractive au millieu en avant des vidéos. Des hauts-parleurs sont accrochés au plafond.
