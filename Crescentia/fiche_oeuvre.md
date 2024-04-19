@@ -35,7 +35,7 @@ L'œuvre porte le nom de *Crescentia*.
 ###### Source : [tim-montmorency.com](https://tim-montmorency.com/2024/)
 
 ## **Type d'exposition**
-Il s'agit d'une exposition intérieure, puisque celle-ci se fait uniquement dans un espace renfermé à l'intérieur d'un bâtiment pour bien voir la projection sur les écrans et bien voir l'éclairage. Cette œuvre est également temporaire. C'est à dire qu'elle ne reste qu'un certain temps dans le petit et grand studio du collège.
+Il s'agit d'une exposition intérieure, puisque celle-ci se fait uniquement dans un espace renfermé à l'intérieur d'un bâtiment pour bien voir la projection sur les écrans et bien voir l'éclairage. Cette œuvre est également temporaire. C'est-à-dire qu'elle ne reste qu'un certain temps dans le petit et grand studio du collège.
 
 ## **Description de l'exposition**
 Crescentia, qui signifie « croissance » en latin, met de l'avant le concept d'évolution qui apparaît sous plusieurs facettes, que ce soit de manière organique, environnementale, ou encore psychologique. C'est aussi le nom de l'exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency dont les œuvres explorent ce concept de plusieurs manières. Ce sont des créations en perpétuel mouvement, qui évoluent et se transforment au gré des actions des visiteurs.
@@ -80,61 +80,61 @@ Sonalux est une installation qui dépasse les limites du réel pour proposer un 
 ###### Photo de l'œuvre *Canevas Cosmique*.
 
 ## **Type d'installation**
-Cette exposition est une installation immersive. C'est à dire qu'elle plonge le public dans un monde immersif, dans le monde de l'œuvre en question. Le public séjourne dans l'œuvre et vit l'expérience.
+Cette exposition est une installation immersive. C'est-à-dire qu'elle plonge le public dans un monde immersif, dans le monde de l'œuvre en question. Le public séjourne dans l'œuvre et vit l'expérience.
 
 ## **Mise en espace de l'exposition**
-Quatre œuvres multimédias dans le grand studio du collège et une dans le petit studio. Ceux dans le grand studio sont dans une salle blanche plutôt remplis par le matériel de chaque œuvre et chacune est dans un coin de la pièce, vis-à-vis l'une à l'autre. Celle dans le petit studio est dans une salle noir moins remplis cette fois puisqu'elle est seul, mais elle prend toute la pièce comme espace. Chacune des œuvres utilises des écrans pour afficher leurs résultats. Certains matériels comme les projecteurs sont accrochés au plafond.
+Quatre œuvres multimédias dans le grand studio du collège et une dans le petit studio. Ceux dans le grand studio sont dans une salle blanche plutôt remplie par le matériel de chaque œuvre et chacune est dans un coin de la pièce, vis-à-vis l'une à l'autre. Celle dans le petit studio est dans une salle noire moins remplie cette fois puisqu'elle est seule, mais elle prend toute la pièce comme espace. Chacune des œuvres utilise des écrans pour afficher leurs résultats. Certains matériels comme les projecteurs sont accrochés au plafond.
 
 ![photo](media/Croquis_Grand_Petit_Studio.PNG)
 ###### Croquis du grand et petit studio.
 
 ## **Mise en espace de l'œuvre *Rhizomatique***
-On voit plein de vidéo flou superposer une par dessus l'autre sur le murs du fond du studio. Il y a également une installation qui est intéractive au millieu en avant des vidéos. Des hauts-parleurs sont accrochés au plafond.
+On voit plein de vidéo flou superposer une par-dessus l'autre sur le mur du fond du studio. Il y a également une installation qui est interactive au milieu en avant des vidéos. Des haut-parleurs sont accrochés au plafond.
 
 ![photo](media/)
 ###### Mise en espace de *Rhizomatique*.
 
 ## **Mise en espace de l'œuvre *Effet-Papillon***
-On voit un arbre électronique intérctif au milieu de la pièce avec 8 écrans dessus. Chaque murs est projeté par des lumières et des projecteurs accrochées au plafonds. Des hauts-parleurs sont également accrochés au plafond.
+On voit un arbre électronique interactif au milieu de la pièce avec 8 écrans dessus. Chaque mur est projeté par des lumières et des projecteurs accrochés aux plafonds. Des haut-parleurs sont également accrochés au plafond.
 
 ![photo](media/)
 ###### Mise en espace de *Effet-Papillon*.
 
 ## **Mise en espace de l'œuvre *Kigo***
-On voit un capteur kinect en dessous d'un grand écran ou l'œuvre intéractive sera affiché. Il y à aussi un terrain prédéterminé pour l'utilisateur là ou il devra se placer pour commencer le début de la partie. Des hauts-parleurs et projecteurs sont sur chaque côtés de l'écran
+On voit un capteur kinect en dessous d'un grand écran ou l'œuvre interactive sera affichée. Il y a aussi un terrain prédéterminé pour l'utilisateur là où il devra se placer pour commencer le début de la partie. Des haut-parleurs et projecteurs sont sur chaque côté de l'écran.
 
 ![photo](media/)
 ###### Mise en espace de *Kigo*.
 
 ## **Mise en espace de l'œuvre *Sonalux***
-3 murs sont présents avec chacun une projection de l'œuvre qui est synchonisé sur chaque écrans. Un podium intéractif est au milieu des 3 murs pour contrôler leurs projection. Des hauts-parleurs et projecteurs sont accrochés au plafond.
+3 murs sont présents avec chacun une projection de l'œuvre qui est synchonisée sur chaque écran. Un podium interactif est au milieu des 3 murs pour contrôler leurs projections. Des haut-parleurs et projecteurs sont accrochés au plafond.
 
 ![photo](media/)
 ###### Mise en espace de *Sonalux*.
 
 ## **Mise en espace de l'œuvre *Canevas Cosmique***
-Un projecteur affiche sur le murs d'en face l'œuvre en question. Une table intéractive est présente en face du murs qui nous permet de modifier le résultat. Des hauts-parleurs sont accrochés au plafond de chaque côtés de l'écran.
+Un projecteur affiche sur le mur d'en face l'œuvre en question. Une table interactive est présente en face du mur qui nous permet de modifier le résultat. Des haut-parleurs sont accrochés au plafond de chaque côté de l'écran.
 
 ![photo](media/)
 ###### Mise en espace de *Canevas Cosmique*.
 
 ## **Composantes et techniques**
-Installation vidéographique, avec son multi-canaux et lumières. Hauts-parleurs et projecteurs.
+Installation vidéographique, avec son multi-canaux et lumières. Haut-parleurs et projecteurs.
 
 ![photo](media/)
 ###### Photo de composantes.
 
 ## **Éléments nécessaires à la mise en exposition**
-Haut-parleurs accrochés sur des crochets au plafond ou sur les dispositifs nécessaires pour écouter le son, plusieurs projecteurs également accrochés sur des crochets au plafond pour montrer chacune des œuvres présentées par les différentes équipes, lumières respectives sur des crochets installés au plafond pour chacune des œuvres, branchements électriques qui sont visible mais qui ne sont pas dans le chemin pour faire fonctionner le tout, tapis de mousse au sol.
+Haut-parleurs accrochés sur des crochets au plafond ou sur les dispositifs nécessaires pour écouter le son, plusieurs projecteurs également accrochés sur des crochets au plafond pour montrer chacune des œuvres présentées par les différentes équipes, lumières respectives sur des crochets installés au plafond pour chacune des œuvres, branchements électriques qui sont visibles mais qui ne sont pas dans le chemin pour faire fonctionner le tout, tapis de mousse au sol.
 
 ![photo](media/)
 ###### Les éléments nécessaires à la mise en exposition.
 
 ## **Expérience vécue**
-Belle expérience intéressante et immersive avec des explications claires de l’œuvre pour savoir son but. L'intéracteur joue un rôle important dans chacune des œuvres. Chaque expositions fonctionnent différement l'une de l'autre ce qui fait une belle variété de découverte a faire.
+Belle expérience intéressante et immersive avec des explications claires de l’œuvre pour savoir son but. L'interacteur joue un rôle important dans chacune des œuvres. Chaque exposition fonctionne différemment l'une de l'autre ce qui fait une belle variété de découvertes à faire.
 
 ## **Ce qui m'a plu et m'a donné des idées**
-J'ai aimé la variété des œuvres car cette fois-ci au lieu d'avoir une seul œuvre, il y en a cinq donc une belle variété. Chaque expositions est différentes donc chaque expérience vécu avec chacune des œuvres va étre différente et unique de la précédente dont j'ai apprécié cela. Ils ont tous un concept intéressant.
+J'ai aimé la variété des œuvres, car cette fois-ci au lieu d'avoir une seule œuvre, il y en a cinq donc une belle variété. Chaque exposition est différente donc chaque expérience vécue avec chacune des œuvres va être différente et unique de la précédente donc j'ai apprécié cela. Ils ont tous un concept intéressant.
 
 ## **Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferai autrement**
-Je ferais peut-être certaines des composantes et techniques différemment car les branchements sont visibles pour la plupart des œuvres ce qui la rend unpeu moins professionel.
+Je ferais peut-être certaines des composantes et techniques différemment, car les branchements sont visibles pour la plupart des œuvres ce qui la rend un peu moins professionnelle.
