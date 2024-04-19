@@ -26,8 +26,12 @@ L'œuvre porte le nom de *Crescentia*.
 -*Sonalux*.
 -*Canevas Cosmique*.
 
-![photo](media/)
-###### Photo des œuvres.
+![photo](media/Rhizomatique_TIM.png)
+![photo](media/Effet-Papillon_TIM.png)
+![photo](media/Kigo_TIM.png)
+![photo](media/Sonalux_TIM.png)
+![photo](media/Canevas_Cosmique_TIM.png)
+###### Photo des affiches des œuvres.
 
 ## **Type d'exposition**
 Il s'agit d'une exposition intérieure, puisque celle-ci se fait uniquement dans un espace renfermé à l'intérieur d'un bâtiment pour bien voir la projection sur les écrans et bien voir l'éclairage. Cette œuvre est également temporaire. C'est à dire qu'elle ne reste qu'un certain temps dans le petit et grand studio du collège.
