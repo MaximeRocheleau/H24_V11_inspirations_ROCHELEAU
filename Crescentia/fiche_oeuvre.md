@@ -5,6 +5,7 @@ Cette exposition conçue par les élèves de la dernière session dans la techni
 
 ![photo](media/Image_Promotionelle_Crescentia_TIM.PNG)
 ###### Image promotionelle de *Crescentia*.
+###### Source : [tim-montmorency.com](https://tim-montmorency.com/2024/)
 
 ## **Lieu de mise en exposition**
 Cette exposition a eu lieu à l'intérieur du collège Montmorency au 475 Boulevard de l'Avenir, Laval, Québec dans le petit et le grand studio.
