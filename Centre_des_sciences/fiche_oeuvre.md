@@ -1,22 +1,22 @@
 # Musée Des Sciences
 
 ## **Nom de l'exposition**
-Cette œuvre conçue par Jeremy Shaw a été présentée par le musée des sciences de Montréal. Elle se nomme *Phase Shifting Index*. Elle a été créée en 2020.
+Cette exposition a été présentée par le Musée Des Sciences de Montréal. Elle se nomme **. Elle a été créée en 2003.
 
-![photo](media/photo_promotionelle_de_exposition.jpg)
-###### Image promotionelle de *Phase Shifting Index*.
+![photo](media/)
+###### Image promotionelle de **.
 
 
 ## **Lieu de mise en exposition**
-Cette exposition a eu lieu à l'intérieur de la Fonderie Darling au 745 Rue Ottawa à Montréal, Québec.
+Cette exposition a eu lieu à l'intérieur du Musée Des Sciences au 2 rue de la Commune O, Montréal, Québec.
 
-![photo](media/photo_entrée_de_la_fonderie_darling.jpg)
-###### Porte d'entrée de la Fonderie Darling.
+![photo](media/)
+###### Porte d'entrée du Musée Des Sciences.
 
 ## **Titre de l'œuvre**
 L'œuvre porte le nom de *Phase Shifting Index*.
 
-![photo](media/photo_exposition_phase_shifting_index.jpeg)
+![photo](media/)
 ###### Photo de l'œuvre.
 
 ## **Information sur l'artiste**
