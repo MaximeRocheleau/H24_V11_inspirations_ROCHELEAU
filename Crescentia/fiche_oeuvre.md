@@ -20,11 +20,11 @@ L'œuvre porte le nom de *Crescentia*.
 ###### Photo de l'œuvre.
 
 ## **Titre des œuvres présentées dans l'exposition**
--*Rhizomatique*.
--*Effet-Papillon*.
--*Kigo*.
--*Sonalux*.
--*Canevas Cosmique*.
+- *Rhizomatique*.
+- *Effet-Papillon*.
+- *Kigo*.
+- *Sonalux*.
+- *Canevas Cosmique*.
 
 ![photo](media/Rhizomatique_TIM.png)
 ![photo](media/Effet-Papillon_TIM.png)
