@@ -1,5 +1,8 @@
 # Conférence Jade Seguel
 
+![photo](media/œuvre_translation_stream.jpg)
+###### Image de l'œuvre *Translation Stream*.
+
 ## **Contexte sur l'artiste et la conférence**
 L'exposition a eu lieu le 16 avril 2024 dans la salle Claude Legault du collège Montmorency. Elle a été donnée par Jade Seguel, un membre de l'équipe du Studio Antimodular de Rafael Lozano Hemmer, un artiste multimédia talentueux et connu. Cette équipe, créée en 2003, construit multiples œuvres multimédias autant grandes que petites. Le thème de cette conférence était sur les œuvres multimédias qu'ils ont faites ensemble et sur les étapes de planification afin de les réaliser.
 
