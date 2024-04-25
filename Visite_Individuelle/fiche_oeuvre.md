@@ -32,7 +32,7 @@ L’aventure Montréal au cœur des échanges débute sous l’Éperon, le bâti
 ![photo](media/photo_ensemble_de_phase_shifting_index.jpg)
 
 ## **Type d'installation**
-Cette exposition est une installation immersive. C'est à dire qu'elle plonge le public dans un monde immersif, dans le monde de l'œuvre en question. Le public séjourne dans l'œuvre et vit l'expérience.
+Cette exposition est une installation intéractive. C'est à dire qu'elle permet au public d'intéragir avec, d'expérimenter avec certaines des installations de l'exposition.
 
 ## **Mise en espace**
 Sept écrans asser grands accrochés au plafond situés de chaque côté de la pièce accompagnée de bancs pour s’asseoir. Les écrans sont descendus jusqu'au niveau des yeux des spectateurs. Il y a beaucoup d’espace dans la pièce pour bouger puisque la majorité du matériel est accroché au plafond. Salle blanche plutôt vide à part pour les écrans et les bancs. Les écrans sont également accompagnés d'haut-parleurs accrochées au plafond et positionnés de manière à ce que le son soit projeté sur le banc en face de l'écran.
