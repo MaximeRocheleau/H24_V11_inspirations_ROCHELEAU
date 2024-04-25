@@ -16,17 +16,17 @@ Cette exposition a eu lieu à l'intérieur du Musée de l'Archéologie et de l'H
 ## **Titre de l'œuvre**
 L'œuvre porte le nom de *Phase Shifting Index*.
 
-![photo](media/photo_exposition_phase_shifting_index.jpeg)
+![photo](media/)
 ###### Photo de l'œuvre. 
 
 ## **Type d'exposition**
-Il s'agit d'une exposition intérieure, puisque celle-ci se fait uniquement dans un espace renfermé à l'intérieur d'un bâtiment pour bien voir la projection sur les écrans et bien voir l'éclairage ainsi que les divers œuvres. Cette exposition est également permanente. C'est à dire qu'elle voyage à plusieurs endroits dans le monde, comme à Paris, en Allemagne, au Canada, etc...
+Il s'agit d'une exposition intérieure, puisque celle-ci se fait uniquement dans un espace renfermé à l'intérieur d'un bâtiment pour bien voir la projection sur les écrans et bien voir l'éclairage ainsi que les divers œuvres. Cette exposition est également permanente. C'est à dire qu'elle ne change jamais d'endroit, elle ne voyage pas ailleurs qu'au Musée de l'Histoire de Pointe-à-Callière.
 
 ## **Description de l'œuvre**
-Phase Shifting Index représente sept groupes autonomes engagés dans des systèmes de croyance incarnés et basés sur le mouvement qui aspirent a induire des réalités parallèles. Utilisant divers médias démodés du XXe siècle, des années 1960 aux années 1990, Shaw présente ce qui semble être des séquences documentaires comme un futur lointain, créant une dissonance cognitive dans la relation du spectateur avec un sentiment de lieu et de temps. La tenue vestimentaire, le style et la chorégraphie des sujets suggèrent des images historiques trouvées des années 1960 aux années 1990. À travers des variations de danse moderne, de popping et de verrouillage, de sauts, de skanking hardcore et d'exercices de confiance, ils explorent les potentiels de modification physique de la réalité.
-###### Source : [thepolygon.ca](https://thepolygon.ca/exhibition/jeremy-shaw-phase-shifting-index/)
+L’aventure Montréal au cœur des échanges débute sous l’Éperon, le bâtiment phare de Pointe-à-Callière. À travers le site archéologique, parmi lequel se trouvent notamment les fondations de l’édifice Royal Insurance (1861-1951), se raconte l’histoire de Montréal depuis la halte fréquentée par les chasseurs-cueilleurs il y a 4 500 ans, jusqu’au développement du Vieux-Montréal urbain que nous connaissons aujourd’hui. Ce site unique en Amérique du Nord cumule les traces de passages et de rencontres entre plusieurs peuples autochtones ou venus d’Europe. Les nombreux artéfacts, écofacts et vestiges architecturaux retrouvés lors de fouilles archéologiques témoignent de l’évolution de ce site. Le parcours archéologique est ponctué d’œuvres d’art autochtones contemporaines, d’installations artistiques et d'aménagements numériques et interactifs qui accompagnent le visiteur dans ses découvertes.
+###### Source : [pacmusee.qc.ca](https://pacmusee.qc.ca/fr/expositions/detail/montreal-au-coeur-des-echanges/)
 
-![photo](media/photo_cartel_information.PNG)
+![photo](media/)
 ###### Photo du cartel d'information sur l'œuvre.
 
 ![photo](media/photo_ensemble_de_phase_shifting_index.jpg)
