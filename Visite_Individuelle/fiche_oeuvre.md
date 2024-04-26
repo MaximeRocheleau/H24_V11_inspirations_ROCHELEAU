@@ -17,7 +17,8 @@ Cette exposition a eu lieu à l'intérieur du Musée de l'Archéologie et de l'H
 L'œuvre que j'ai chosit porte le nom de *Maison Longue*.
 
 ![photo](media/)
-###### Photo de l'œuvre. 
+###### Photo de l'œuvre.
+###### Source : [pacmusee.qc.ca](https://pacmusee.qc.ca/fr/expositions/detail/montreal-au-coeur-des-echanges/)
 
 ## **Type d'exposition**
 Il s'agit d'une exposition intérieure, puisque celle-ci se fait uniquement dans un espace renfermé à l'intérieur d'un bâtiment pour bien voir la projection sur les écrans et bien voir l'éclairage ainsi que les divers œuvres. Cette exposition est également permanente. C'est-à-dire qu'elle ne change jamais d'endroit, elle ne voyage pas ailleurs qu'au Musée de l'Histoire de Pointe-à-Callière.
@@ -25,9 +26,6 @@ Il s'agit d'une exposition intérieure, puisque celle-ci se fait uniquement dans
 ## **Description de Montréal au cœur des échanges**
 L’aventure Montréal au cœur des échanges débute sous l’Éperon, le bâtiment phare de Pointe-à-Callière. À travers le site archéologique, parmi lequel se trouvent notamment les fondations de l’édifice Royal Insurance (1861-1951), se raconte l’histoire de Montréal depuis la halte fréquentée par les chasseurs-cueilleurs il y a 4 500 ans, jusqu’au développement du Vieux-Montréal urbain que nous connaissons aujourd’hui. Ce site unique en Amérique du Nord cumule les traces de passages et de rencontres entre plusieurs peuples autochtones ou venus d’Europe. Les nombreux artéfacts, écofacts et vestiges architecturaux retrouvés lors de fouilles archéologiques témoignent de l’évolution de ce site. Le parcours archéologique est ponctué d’œuvres d’art autochtones contemporaines, d’installations artistiques et d'aménagements numériques et interactifs qui accompagnent le visiteur dans ses découvertes.
 ###### Source : [pacmusee.qc.ca](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)
-
-![photo](media/)
-###### Photo du bâtiment phare de Pointe-à-Callière.
 
 ## **Description de l'œuvre choisit**
 Une œuvre qui nous permet de s'informer sur l'histoire du Vieux-Montréal. Il y a un modèle d'une maison longue. On peut s'informer sur celle-ci avec les boutons interactifs qu'ont peut appuyer. Lors de l'appuie d'un bouton, la partie de la maison longue liée à ce bouton s'illumine et nous permet d'en savoir plus sur son utilitée. 
@@ -45,7 +43,7 @@ Petite table ronde avec des informations sur l'histoire du Vieux-Montréal et un
 Lumières cachées à l'intérieur de l'œuvre et éteinte de sorte que lorsque le visiteur appuie sur l'un des boutons, la lumière liée à ce bouton s'active. Branchement électrique à l'intérieur de l'œuvre pour que le tout fonctionne.
 
 ![photo](media/)
-###### Photo de la maison longue avec lumières activées.
+###### Photo de la maison longue avec lumières éteintes.
 
 ## **Éléments nécessaires à la mise en exposition**
 Banc pour s’asseoir, lumières sur des crochets installés au plafond et certaines insérées dans le plafond pour une bonne luminositée de l'œuvre, branchements électriques au plafond pour faire fonctionner le tout et qui ne sont pas dans le chemin du visiteur.
