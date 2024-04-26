@@ -5,7 +5,7 @@ Cette exposition a été conçu par le Musée de l'Archéologie et de l'Histoire
 
 ![photo](media//image_promotionelle_montreal_au_cœur_des_echanges.jpg)
 ###### Image promotionelle de *Montréal au cœur des échanges*.
-
+###### Source : [pacmusee.qc.ca](https://pacmusee.qc.ca/fr/expositions/detail/montreal-au-coeur-des-echanges/)
 
 ## **Lieu de mise en exposition**
 Cette exposition a eu lieu à l'intérieur du Musée de l'Archéologie et de l'Histoire de Pointe-à-Callière au 350, place Royale, angle de la Commune au Vieux-Montréal, Québec.
