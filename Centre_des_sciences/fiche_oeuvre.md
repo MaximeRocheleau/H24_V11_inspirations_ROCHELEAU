@@ -5,12 +5,14 @@ Cette exposition a été présentée par le Centre Des Sciences de Montréal. El
 
 ![photo](media/image_promotionelle_explore-la_science_en_grand.jpeg)
 ###### Image promotionelle de l'exposition.
+###### Source : [centredessciencesdemontreal.com](https://www.centredessciencesdemontreal.com/information-visiteurs)
 
 ## **Lieu de mise en exposition**
 Cette exposition a eu lieu à l'intérieur du Centre Des Sciences au 2 rue de la Commune O, Montréal, Québec.
 
 ![photo](media/porte_entrer_centre_des_sciences.jpg)
 ###### Porte d'entrée du Centre Des Sciences.
+###### Source : [centredessciencesdemontreal.com](https://www.centredessciencesdemontreal.com/exposition-permanente/explore)
 
 ## **Titre de l'œuvre**
 L'œuvre que j'ai choisi porte le nom de *Le language des ordinateurs*.
