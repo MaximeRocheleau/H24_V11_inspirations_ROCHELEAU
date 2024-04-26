@@ -1,11 +1,10 @@
 # Centre Des Sciences
 
 ## **Nom de l'exposition**
-Cette exposition a été présentée par le Centre Des Sciences de Montréal. Elle se nomme *Explore - La science en grand*. Elle a été créée en 2003.
+Cette exposition a été présentée par le Centre Des Sciences de Montréal. Elle se nomme *Explore - La science en grand*. Elle a été créée en 2019.
 
 ![photo](media/)
 ###### Image promotionelle de l'exposition.
-
 
 ## **Lieu de mise en exposition**
 Cette exposition a eu lieu à l'intérieur du Centre Des Sciences au 2 rue de la Commune O, Montréal, Québec.
