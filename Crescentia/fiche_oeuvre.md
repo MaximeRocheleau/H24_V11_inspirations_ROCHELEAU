@@ -13,9 +13,6 @@ Cette exposition a eu lieu à l'intérieur du collège Montmorency au 475 Boulev
 ![photo](media/Collège_Montmorency.jpg)
 ###### Porte d'entrée du collège Montmorency.
 
-## **Titre de l'œuvre**
-L'œuvre porte le nom de *Crescentia*.
-
 ## **Titre des œuvres présentées dans l'exposition**
 - *Rhizomatique*.
 - *Effet-Papillon*.
