@@ -1,7 +1,7 @@
 # Montréal au cœur des échanges
 
 ## **Nom de l'exposition**
-Cette exposition a été conçu par le Musée de l'Archéologie et de l'Histoire de Montréal. Elle se nomme *Montréal au cœur des échanges*. Elle a été créée en 2021.
+Cette exposition a été conçu par le Musée de l'Archéologie et de l'Histoire de Montréal. Elle se nomme *Montréal au cœur des échanges*. Elle a été créée le 17 mai 2017.
 
 ![photo](media//image_promotionelle_montreal_au_cœur_des_echanges.jpg)
 ###### Image promotionelle de *Montréal au cœur des échanges*.
