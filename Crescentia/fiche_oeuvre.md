@@ -41,9 +41,6 @@ Il s'agit d'une exposition intérieure, puisque celle-ci se fait uniquement dans
 Crescentia, qui signifie « croissance » en latin, met de l'avant le concept d'évolution qui apparaît sous plusieurs facettes, que ce soit de manière organique, environnementale, ou encore psychologique. C'est aussi le nom de l'exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency dont les œuvres explorent ce concept de plusieurs manières. Ce sont des créations en perpétuel mouvement, qui évoluent et se transforment au gré des actions des visiteurs.
 ###### Source : [tim-montmorency.com](https://tim-montmorency.com/2024/)
 
-![photo](media/)
-###### Vue d'ensemble de l'exposition.
-
 ## **Description de l'œuvre *Rhizomatique***
 Rhizomatique est une oeuvre intéractive qui relie l'humain et le temps. De nos jours, le temps controle notre vie, on est souvent occupé et la vie va trop vite. Le temps est un fil qui ralonge selon différentes temporalités, actions ou événements dans la vie. Dans notre projet, en appuyant sur la toile l'interacteur naviguera dans le cerveau pour y découvrir ses souvenirs, qui vont par la suite être révellés sur les projections immersives. Lorsque l'intéraction prend fin, la projection sur les murs va reprendre son état initale jusqu'à la prochaine intéraction. L’œuvre consiste à insiter l'interacteur à vouloir oublier le temps qui passe et de retourner dans le passé d'une personne inconnu. L'oeuvre est divisé en deux espaces qui sont liés : la toile et les projections immersives. La toile va servir de communication entre l'interacteur et les souvenirs. La toile va aussi contrôler la clarté des souvenirs qui vont être représentés en particules. Plus qu'il y aura de l'intéraction avec la toile plus les souvenirs vont être clairs. La toile, qui représente le cerveau, aura une projection qui représentera les fluides et l'allure rhizomatique du cerveau.
 ###### Source : [tim-montmorency.com](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html)
@@ -122,13 +119,13 @@ Un projecteur affiche sur le mur d'en face l'œuvre en question. Une table inter
 Installation vidéographique, avec son multi-canaux et lumières. Haut-parleurs et projecteurs.
 
 ![photo](media/)
-###### Photo de composantes.
+###### Photo de composantes des œuvres.
 
 ## **Éléments nécessaires à la mise en exposition**
 Haut-parleurs accrochés sur des crochets au plafond ou sur les dispositifs nécessaires pour écouter le son, plusieurs projecteurs également accrochés sur des crochets au plafond pour montrer chacune des œuvres présentées par les différentes équipes, lumières respectives sur des crochets installés au plafond pour chacune des œuvres, branchements électriques qui sont visibles mais qui ne sont pas dans le chemin pour faire fonctionner le tout, tapis de mousse au sol.
 
 ![photo](media/)
-###### Les éléments nécessaires à la mise en exposition.
+###### Les éléments nécessaires à la mise en exposition des œuvres.
 
 ## **Expérience vécue**
 Belle expérience intéressante et immersive avec des explications claires de l’œuvre pour savoir son but. L'interacteur joue un rôle important dans chacune des œuvres. Chaque exposition fonctionne différemment l'une de l'autre ce qui fait une belle variété de découvertes à faire.
