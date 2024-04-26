@@ -59,4 +59,4 @@ Belle expérience intéressante avec un aspect interactif plaisant. Le visiteur 
 J’ai aimé l'aspect interactif car il permet au visiteur de participer à cette œuvre tout en s'informant avec les renseignements fournient. La composition est aussi bien faite, le modèle de la maison longue est bien représenté. Ceci m'a donné des idées pour faire des intéractions de ce genre entre visiteur et œuvre.
 
 ## **Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferai autrement**
-L'œuvre que j'ai choisit avait seulement une portion qui était intéractive, qui était la portion de maison longue avec sa composition. J'aurais peut-être essayer de mettre une ou deux portions de plus pour rendre l'expérience encore plus intéractive.
+L'œuvre que j'ai choisit avait seulement une portion qui était intéractive, qui était la portion de la maison longue avec sa maquette. J'aurais peut-être essayer de mettre une ou deux portions de plus pour rendre l'expérience encore plus intéractive.
