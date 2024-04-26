@@ -78,6 +78,7 @@ Quatre œuvres multimédias dans le grand studio du collège et une dans le peti
 
 ![photo](media/Croquis_Grand_Petit_Studio.PNG)
 ###### Croquis du grand et petit studio.
+###### Source : [tim-montmorency.com](https://tim-montmorency.com/)
 
 ## **Mise en espace de l'œuvre *Rhizomatique***
 On voit plein de vidéo flou superposer une par-dessus l'autre sur le mur du fond du studio. Il y a également une installation qui est interactive au milieu en avant des vidéos. Des haut-parleurs sont accrochés au plafond.
