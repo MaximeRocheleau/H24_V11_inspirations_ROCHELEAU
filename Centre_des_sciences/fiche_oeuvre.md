@@ -3,7 +3,7 @@
 ## **Nom de l'exposition**
 Cette exposition a été présentée par le Centre Des Sciences de Montréal. Elle se nomme *Explore - La science en grand*. Elle a été créée en 2019.
 
-![photo](media/)
+![photo](media/image_promotionelle_explore-la_science_en_grand.jpeg)
 ###### Image promotionelle de l'exposition.
 
 ## **Lieu de mise en exposition**
