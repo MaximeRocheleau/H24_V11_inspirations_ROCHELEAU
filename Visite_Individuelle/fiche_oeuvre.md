@@ -30,15 +30,13 @@ Le 17 mai 2017, le Musée dévoila la mise en valeur du premier égout collecteu
 ###### Photo du cartel d'information sur l'œuvre.
 
 ## **Type d'installation**
-Cette exposition est une installation immserive. C'est à dire qu'elle plonge le publique dans le monde de l'œuvre en question. Le publique fait partie de l'œuvre
+Cette exposition est une installation immserive. C'est à dire qu'elle plonge le public dans un monde immersif, dans le monde de l'œuvre en question. Le public séjourne dans l'œuvre et vit l'expérience.
 
 ## **Mise en espace**
-Sept écrans asser grands accrochés au plafond situés de chaque côté de la pièce accompagnée de bancs pour s’asseoir. Les écrans sont descendus jusqu'au niveau des yeux des spectateurs. Il y a beaucoup d’espace dans la pièce pour bouger puisque la majorité du matériel est accroché au plafond. Salle blanche plutôt vide à part pour les écrans et les bancs. Les écrans sont également accompagnés d'haut-parleurs accrochées au plafond et positionnés de manière à ce que le son soit projeté sur le banc en face de l'écran.
+Gros corridor long de 110 mètres où le visiteur peut observer des affichages créé par des projecteurs sur chaque côtées du murs tout en marchant dans ce corridor. Il y a beaucoup d'espace pour marcher
 
-![photo](media/photo_croquis_piece.png)
-###### Photo du croquis de la pièce.
-
-![photo](media/photo_vue_ensemble_de_la_piece.jpg)
+![photo](media/)
+###### Photo de la vue d'ensemble de la pièce.
 
 ## **Composantes et techniques**
 Installation vidéographique à sept canaux, couleurs en noir et blanc, avec son multi-canaux et lumières. Durées de 35 minutes et 17 seconds. Il y a également une salle de son à l'intérieur pour contrôler d'où le son vient (haut-parleurs des écrans ou haut-parleurs à fréquence basse).
