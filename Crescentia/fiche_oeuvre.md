@@ -45,35 +45,35 @@ Crescentia, qui signifie « croissance » en latin, met de l'avant le concept d'
 Rhizomatique est une oeuvre intéractive qui relie l'humain et le temps. De nos jours, le temps controle notre vie, on est souvent occupé et la vie va trop vite. Le temps est un fil qui ralonge selon différentes temporalités, actions ou événements dans la vie. Dans notre projet, en appuyant sur la toile l'interacteur naviguera dans le cerveau pour y découvrir ses souvenirs, qui vont par la suite être révellés sur les projections immersives. Lorsque l'intéraction prend fin, la projection sur les murs va reprendre son état initale jusqu'à la prochaine intéraction. L’œuvre consiste à insiter l'interacteur à vouloir oublier le temps qui passe et de retourner dans le passé d'une personne inconnu. L'oeuvre est divisé en deux espaces qui sont liés : la toile et les projections immersives. La toile va servir de communication entre l'interacteur et les souvenirs. La toile va aussi contrôler la clarté des souvenirs qui vont être représentés en particules. Plus qu'il y aura de l'intéraction avec la toile plus les souvenirs vont être clairs. La toile, qui représente le cerveau, aura une projection qui représentera les fluides et l'allure rhizomatique du cerveau.
 ###### Source : [tim-montmorency.com](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html)
 
-![photo](media/)
+![photo](media/oeuvre_rhizomatique_TIM.jpg)
 ###### Photo de l'œuvre *Rhizomatique*.
 
 ## **Description de l'œuvre *Effet-Papillon***
 Une installation interactive immersive qui explore le cycle de vie d'un pommier tout en mettant en lumière l'effet papillon à travers des éléments électroniques. Les visiteurs sont invités à participer à une expérience sensorielle et éducative qui dévoile les différentes étapes, de la graine à la pomme, tout en soulignant la notion complexe de l'effet papillon. La maturation du fruit est une phase clé de l'installation, où les visiteurs découvrent les conséquences finales de leurs actions. La pomme résultante devient le point focal, représentant les retombées de choix apparemment minuscules sur un système complexe.
 ###### Source : [tim-montmorency.com](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html)
 
-![photo](media/)
+![photo](media/oeuvre_effet-papillon_TIM.jpg)
 ###### Photo de l'œuvre *Effet-Papillon*.
 
 ## **Description de l'œuvre *Kigo***
 Un jeu interactif oû le joueur doit éviter des obstacles dans un univers inspiré du style visuel néon rétro, dans lequel l'esthétique changera pour s'associer aux quatres saisons.
 ###### Source : [tim-montmorency.com](https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html)
 
-![photo](media/)
+![photo](media/oeuvre_kigo_TIM.jpg)
 ###### Photo de l'œuvre *Kigo*.
 
 ## **Description de l'œuvre *Sonalux***
 Sonalux est une installation qui dépasse les limites du réel pour proposer un monde d'art génératif où la notion du temps est repensé dans une boucle laissant place à un voyage astral collectif. L'interacteur se voit projeter dans un espace sans contraintes où il en devient le maître par la maîtrise des pièces d'instruments qui se trouvent sur le podium.
 ###### Source : [tim-montmorency.com](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
 
-![photo](media/)
+![photo](media/oeuvre_sonalux_TIM.png)
 ###### Photo de l'œuvre *Sonalux*.
 
 ## **Description de l'œuvre *Canevas Cosmique***
 Sonalux est une installation qui dépasse les limites du réel pour proposer un monde d'art génératif où la notion du temps est repensé dans une boucle laissant place à un voyage astral collectif. L'interacteur se voit projeter dans un espace sans contraintes où il en devient le maître par la maîtrise des pièces d'instruments qui se trouvent sur le podium.
 ###### Source : [tim-montmorency.com](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html)
 
-![photo](media/)
+![photo](media/oeuvre_canevas-cosmique_TIM.jpg)
 ###### Photo de l'œuvre *Canevas Cosmique*.
 
 ## **Type d'installation**
@@ -88,43 +88,49 @@ Quatre œuvres multimédias dans le grand studio du collège et une dans le peti
 ## **Mise en espace de l'œuvre *Rhizomatique***
 On voit plein de vidéo flou superposer une par-dessus l'autre sur le mur du fond du studio. Il y a également une installation qui est interactive au milieu en avant des vidéos. Des haut-parleurs sont accrochés au plafond.
 
-![photo](media/)
+![photo](media/mise_en_espace_rhizomatique_TIM.jpg)
 ###### Mise en espace de *Rhizomatique*.
 
 ## **Mise en espace de l'œuvre *Effet-Papillon***
 On voit un arbre électronique interactif au milieu de la pièce avec 8 écrans dessus. Chaque mur est projeté par des lumières et des projecteurs accrochés aux plafonds. Des haut-parleurs sont également accrochés au plafond.
 
-![photo](media/)
+![photo](media/mise_en_espace_effet-papillon_TIM.jpg)
 ###### Mise en espace de *Effet-Papillon*.
 
 ## **Mise en espace de l'œuvre *Kigo***
 On voit un capteur kinect en dessous d'un grand écran ou l'œuvre interactive sera affichée. Il y a aussi un terrain prédéterminé pour l'utilisateur là où il devra se placer pour commencer le début de la partie. Des haut-parleurs et projecteurs sont sur chaque côté de l'écran.
 
-![photo](media/)
+![photo](media/mise_en_espace_kigo_TIM.jpg)
 ###### Mise en espace de *Kigo*.
 
 ## **Mise en espace de l'œuvre *Sonalux***
 3 murs sont présents avec chacun une projection de l'œuvre qui est synchonisée sur chaque écran. Un podium interactif est au milieu des 3 murs pour contrôler leurs projections. Des haut-parleurs et projecteurs sont accrochés au plafond.
 
-![photo](media/)
+![photo](media/mise_en_espace_sonalux_TIM.png)
 ###### Mise en espace de *Sonalux*.
 
 ## **Mise en espace de l'œuvre *Canevas Cosmique***
 Un projecteur affiche sur le mur d'en face l'œuvre en question. Une table interactive est présente en face du mur qui nous permet de modifier le résultat. Des haut-parleurs sont accrochés au plafond de chaque côté de l'écran.
 
-![photo](media/)
+![photo](media/mise_en_espace_canevas-cosmique_TIM.jpg)
 ###### Mise en espace de *Canevas Cosmique*.
 
 ## **Composantes et techniques**
 Installation vidéographique, avec son multi-canaux et lumières. Haut-parleurs et projecteurs.
 
-![photo](media/)
+![photo](media/composantes_sonalux_TIM.jpg)
+![photo](media/composantes_rhizomatique_TIM.jpg)
+![photo](media/composantes_kigo_TIM.jpg)
+![photo](media/composantes_effet-papillon_TIM.jpg)
+![photo](media/composantes_canevas-cosmique_TIM.jpg)
 ###### Photo de composantes des œuvres.
 
 ## **Éléments nécessaires à la mise en exposition**
 Haut-parleurs accrochés sur des crochets au plafond ou sur les dispositifs nécessaires pour écouter le son, plusieurs projecteurs également accrochés sur des crochets au plafond pour montrer chacune des œuvres présentées par les différentes équipes, lumières respectives sur des crochets installés au plafond pour chacune des œuvres, branchements électriques qui sont visibles mais qui ne sont pas dans le chemin pour faire fonctionner le tout, tapis de mousse au sol.
 
-![photo](media/)
+![photo](media/mise_en-exposition_kigo_TIM.jpg)
+![photo](media/mise_en_exposition_sonalux_TIM.jpg)
+![photo](media/mise_en_exposition_rhizomatique_TIM.jpg)
 ###### Les éléments nécessaires à la mise en exposition des œuvres.
 
 ## **Expérience vécue**
