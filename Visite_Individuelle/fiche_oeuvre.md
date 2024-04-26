@@ -14,7 +14,7 @@ Cette exposition a eu lieu à l'intérieur du Musée de l'Archéologie et de l'H
 ###### Porte d'entrée du Musée de l'Archéologie et de l'Histoire.
 
 ## **Titre de l'œuvre**
-L'œuvre porte le nom de *Phase Shifting Index*.
+L'œuvre que j'ai chosit porte le nom de *Collecteur de mémoires*.
 
 ![photo](media/)
 ###### Photo de l'œuvre. 
@@ -23,16 +23,14 @@ L'œuvre porte le nom de *Phase Shifting Index*.
 Il s'agit d'une exposition intérieure, puisque celle-ci se fait uniquement dans un espace renfermé à l'intérieur d'un bâtiment pour bien voir la projection sur les écrans et bien voir l'éclairage ainsi que les divers œuvres. Cette exposition est également permanente. C'est à dire qu'elle ne change jamais d'endroit, elle ne voyage pas ailleurs qu'au Musée de l'Histoire de Pointe-à-Callière.
 
 ## **Description de l'œuvre**
-L’aventure Montréal au cœur des échanges débute sous l’Éperon, le bâtiment phare de Pointe-à-Callière. À travers le site archéologique, parmi lequel se trouvent notamment les fondations de l’édifice Royal Insurance (1861-1951), se raconte l’histoire de Montréal depuis la halte fréquentée par les chasseurs-cueilleurs il y a 4 500 ans, jusqu’au développement du Vieux-Montréal urbain que nous connaissons aujourd’hui. Ce site unique en Amérique du Nord cumule les traces de passages et de rencontres entre plusieurs peuples autochtones ou venus d’Europe. Les nombreux artéfacts, écofacts et vestiges architecturaux retrouvés lors de fouilles archéologiques témoignent de l’évolution de ce site. Le parcours archéologique est ponctué d’œuvres d’art autochtones contemporaines, d’installations artistiques et d'aménagements numériques et interactifs qui accompagnent le visiteur dans ses découvertes.
-###### Source : [pacmusee.qc.ca](https://pacmusee.qc.ca/fr/expositions/detail/montreal-au-coeur-des-echanges/)
+Le 17 mai 2017, le Musée dévoila la mise en valeur du premier égout collecteur érigé en Amérique du Nord, un majestueux ouvrage d’ingénierie civile construit entre 1832 et 1838. Depuis mai 2017, les visiteurs peuvent cette fois emprunter une portion de l’égout collecteur sur une distance de 110 mètres. Ils sont appelés à vivre une expérience multisensorielle et réflexive grâce à l’installation Collecteur de mémoires, un ingénieux mécanisme de projections lumineuses sur les parois en pierre, dans un environnement sonore spécialement créé pour l’occasion. Dans le souci de respecter l’esprit du lieu, la mise en valeur de cet impressionnant collecteur plonge le visiteur dans un monde souterrain quasi mystérieux qui le transporte au cœur d’un espace magique porteur d’histoire et chargé d’émotions.
+###### Source : [pacmusee.qc.ca](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)
 
 ![photo](media/)
 ###### Photo du cartel d'information sur l'œuvre.
 
-![photo](media/photo_ensemble_de_phase_shifting_index.jpg)
-
 ## **Type d'installation**
-Cette exposition est une installation intéractive. C'est à dire qu'elle permet au public d'intéragir avec, d'expérimenter avec certaines des installations de l'exposition.
+Cette exposition est une installation immserive. C'est à dire qu'elle plonge le publique dans le monde de l'œuvre en question. Le publique fait partie de l'œuvre
 
 ## **Mise en espace**
 Sept écrans asser grands accrochés au plafond situés de chaque côté de la pièce accompagnée de bancs pour s’asseoir. Les écrans sont descendus jusqu'au niveau des yeux des spectateurs. Il y a beaucoup d’espace dans la pièce pour bouger puisque la majorité du matériel est accroché au plafond. Salle blanche plutôt vide à part pour les écrans et les bancs. Les écrans sont également accompagnés d'haut-parleurs accrochées au plafond et positionnés de manière à ce que le son soit projeté sur le banc en face de l'écran.
