@@ -9,13 +9,13 @@ Cette exposition a été présentée par le Centre Des Sciences de Montréal. El
 ## **Lieu de mise en exposition**
 Cette exposition a eu lieu à l'intérieur du Centre Des Sciences au 2 rue de la Commune O, Montréal, Québec.
 
-![photo](media/)
+![photo](media/porte_entrer_centre_des_sciences.jpg)
 ###### Porte d'entrée du Centre Des Sciences.
 
 ## **Titre de l'œuvre**
 L'œuvre que j'ai choisi porte le nom de *Le language des ordinateurs*.
 
-![photo](media/)
+![photo](media/oeuvre_explore-la_science_en_grand.jpg)
 ###### Photo de l'œuvre.
 
 ## **Type d'exposition**
@@ -24,10 +24,8 @@ Il s'agit d'une exposition intérieure, puisque celle-ci se fait uniquement dans
 ## **Description de l'œuvre**
 C'est une œuvre qui affiche des ombres au mur grâce à des lumières et une maquette de bois en face du mécanisme. Les lumières sont derrière la maquette, ce qui fait la projection au mur quand elles s'activent. La maquette tourne, faisant bouger les ombres qui s'affichent au mur en face.
 
-![photo](media/)
+![photo](media/cartel_information_explore-la_science_en_grand.jpg)
 ###### Photo du cartel d'information sur l'œuvre.
-
-![photo](media/)
 
 ## **Type d'installation**
 Cette exposition est une installation intéractive. C'est à dire qu'elle permet au public de faire des interactions avec, d'expérimenter avec pour la faire réagir.
@@ -35,20 +33,20 @@ Cette exposition est une installation intéractive. C'est à dire qu'elle permet
 ## **Mise en espace**
 Salle noire avec le dispositif au milieu. La salle est sombre pour permettre aux ombres d'être bien visibles. Les seules lumières installées sont celles à l'intérieur du mécanisme. Assez d'espace pour bouger dans la petite salle. Le mur d'en face où les ombres sont projetées est blanc pour une bonne visibilité.
 
-![photo](media/)
+![photo](media/mise_en_espace_explore-la_science_en_grand.jpg)
 ###### Photo de la pièce.
 
 ## **Composantes et techniques**
 Mécanisme qui permet de projeter de la lumière en face de la maquette de bois. Il permet également à la maquette de tourner. La couleur des lumières et la vitesse de rotation peuvent changer grâce à un écran tactile intéractif en face de l'œuvre qui est facilement contrôlable.
 
-![photo](media/)
-![photo](media/)
+![photo](media/composantes_explore-la_science_en_grand.jpg)
+![photo](media/composantes_2_explore-la_science_en_grand.jpg)
 ###### Photo du mécanisme de l'œuvre et de l'écran tactile.
 
 ## **Éléments nécessaires à la mise en exposition**
 Lumières pour l'affichage des ombres, branchements électriques bien cachés qui ne sont pas dans le chemin pour faire fonctionner le tout, tapis anti bruit au sol et aux murs, écran tactile pour expérimenter avec l'œuvre, maquette de bois qui produit les ombres au mur.
 
-![photo](media/)
+![photo](media/mise_en_exposition_explore-la_science_en_grand.jpg)
 ###### Les éléments nécessaires à la mise en exposition.
 
 ## **Expérience vécue**
