@@ -3,20 +3,20 @@
 ## **Nom de l'exposition**
 Cette exposition a été conçu par le Musée de l'Archéologie et de l'Histoire de Montréal. Elle se nomme *Montréal au cœur des échanges*. Elle a été créée en 2021.
 
-![photo](media/)
+![photo](media/image_promotionelle_montreal_au_coeur_des_echanges.jpg)
 ###### Image promotionelle de *Montréal au cœur des échanges*.
 
 
 ## **Lieu de mise en exposition**
 Cette exposition a eu lieu à l'intérieur du Musée de l'Archéologie et de l'Histoire de Pointe-à-Callière au 350, place Royale, angle de la Commune au Vieux-Montréal, Québec.
 
-![photo](media/)
+![photo](media/porte_entrer_montreal_au_coeur_des_echanges.jpg)
 ###### Porte d'entrée du Musée de l'Archéologie et de l'Histoire.
 
 ## **Titre de l'œuvre**
 L'œuvre que j'ai chosit porte le nom de *Maison Longue*.
 
-![photo](media/)
+![photo](media/oeuvre_montreal_au_coeur_des_echanges.jpg)
 ###### Photo de l'œuvre.
 ###### Source : [pacmusee.qc.ca](https://pacmusee.qc.ca/fr/expositions/detail/montreal-au-coeur-des-echanges/)
 
@@ -36,20 +36,20 @@ Cette exposition est une installation intéractive. C'est à dire qu'elle permet
 ## **Mise en espace**
 Petite table ronde avec des informations sur l'histoire du Vieux-Montréal et un petit modèle d'une maison longue. La table est positionnée au milieu de sa pièce respective, ce qui permet au visiteur de ne pas la manquer. Il y a beaucoup d'espace pour marcher autour d'elle, ce qui rend l'expérience agréable.
 
-![photo](media/)
+![photo](media/vue_ensemble_table_montreal_au_coeur_des_echanges.jpg)
 ###### Photo de la vue d'ensemble de la table.
 
 ## **Composantes et techniques**
 Lumières cachées à l'intérieur de l'œuvre et éteinte de sorte que lorsque le visiteur appuie sur l'un des boutons, la lumière liée à ce bouton s'active. Branchement électrique à l'intérieur de l'œuvre pour que le tout fonctionne.
 
-![photo](media/)
+![photo](media/composantes_montreal_au_coeur_des_echanges.jpg)
 ###### Photo de la maison longue avec lumières éteintes.
 
 ## **Éléments nécessaires à la mise en exposition**
 Banc pour s’asseoir, lumières sur des crochets installés au plafond et certaines insérées dans le plafond pour une bonne luminositée de l'œuvre, branchements électriques au plafond pour faire fonctionner le tout et qui ne sont pas dans le chemin du visiteur.
 
-![photo](media/)
-![photo](media/)
+![photo](media/mise_en_exposition_montreal_au_coeur_des_echanges.jpg)
+![photo](media/mise_en_exposition_2_montreal_au_coeur_des_echanges.jpg)
 ###### Les éléments nécessaires à la mise en exposition.
 
 ## **Expérience vécue**
